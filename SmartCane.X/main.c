@@ -10,7 +10,8 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-
+#include <xc.h>
+#include "init.h"
 void main(void) {
 
 }
